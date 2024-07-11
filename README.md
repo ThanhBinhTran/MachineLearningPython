@@ -136,17 +136,17 @@ This is an example of how to list things you need to use the software and how to
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+2. install scikit-learn in vscode
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   pip install scikit-learn
    ```
-3. Install NPM packages
+3. write scikit-learn hello-world
    ```sh
-   npm install
+   see scikit-learn_helloworld.py
    ```
-4. Enter your API in `config.js`
+4. run scikit-learn_helloworld.py file
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   python scikit-learn_helloworld.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
